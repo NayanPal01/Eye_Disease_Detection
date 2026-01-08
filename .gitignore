@@ -1,0 +1,7 @@
+# Model & training artifacts
+*.h5
+*.pkl
+
+# Dataset (too large for GitHub)
+Dataset - train+val+test/
+
