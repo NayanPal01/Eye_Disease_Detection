@@ -53,3 +53,15 @@ Install the required Python libraries:
 
 ```bash
 pip install tensorflow keras numpy pandas matplotlib jupyter
+
+```
+### step3: Run the project file:
+```bash
+training_model.ipynb
+```
+---
+
+## 🧑‍💻 Made By
+
+**Nayan Pal**  
+AI / Machine Learning Enthusiast
