@@ -37,9 +37,19 @@ Eye_Disease/
 
 The trained model is stored externally due to GitHub file size limits.
 
-```text
+## Dataset Drive Link: : https://drive.google.com/drive/u/0/folders/1Tu5JdIr8kUQgzjcNRi7hIXN_sg2EoLMW
+
+
 Open: model/README.md
-Download the model from the provided link : https://drive.google.com/drive/u/0/folders/1Tu5JdIr8kUQgzjcNRi7hIXN_sg2EoLMW
+Download the model from the provided link 
 Place the file inside the model folder as:
 model/Trained_Eye_disease_model.h5
-```
+
+
+### Step 2: Install Dependies  
+
+
+Install the required Python libraries:
+
+```bash
+pip install tensorflow keras numpy pandas matplotlib jupyter
